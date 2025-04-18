@@ -1,0 +1,43 @@
+Játék célja:
+-Megölni a Mester szerverét, melyet csak a legendás fork bomb tud kiakasztani.
+-Minden szint végén, kapunk egy sort a fork bomból
+
+-Nyelv választás:
+	Java||C++||Pascal||C#
+
+Side game:
+	-tűzfalak támadnak, lángot lönnek
+	-fegyverrel lehet őket lönni
+	-szintek végén új fegyvert kapol
+
+-5 szint
+-támadási eszközök:
+	-SYN
+	-POD
+	-DOS
+	-DDOS
+	-While(true)
+
+-Minigamek:
+	- labirintus
+	- Lövös platformmal
+	- tűz falbontó
+	- Flappy Crash
+	- Collecting
+
+	-ekrata
+	-BKV
+	-MÁV
+	-t-sytems
+	-valasztas.hu
+	-Mester
+
+
+-Szint felépítése:
+	-Programozási képpesség fejlődése kérdés
+		
+
+
+https://en.wikipedia.org/wiki/Fork_bomb	 
+https://hu.wikipedia.org/wiki/Szolg%C3%A1ltat%C3%A1smegtagad%C3%A1ssal_j%C3%A1r%C3%B3_t%C3%A1mad%C3%A1s
+https://gist.github.com/obihann/8964236
